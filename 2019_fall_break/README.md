@@ -60,6 +60,8 @@ I90往西边开就变成了两车道，但是晚上车很少。一路听着黄�
 
 坐完船，我们绕到一个没什么人的地方放无人机，飞到近处看了一眼瀑布，应该已经飞进加拿大了。无人机拍的效果太好了。
 
+无人机拍的视频：[[Youtube]](https://youtu.be/8vkF_T6N_xI) [[Bilibili]](https://www.bilibili.com/video/av74485937/)
+
 ![合影](./IMG_6937.jpeg)
 
 旁边的巴基斯坦路人照的合影，眼睛都睁不开。
@@ -118,7 +120,7 @@ Vermont主要就是沿路景色比较好看，所以今天是沿着著名观景�
 
 门口的大熊还不错。
 
-![IMG_20191012_154602](/Users/chengweiye/Library/Mobile Documents/com~apple~CloudDocs/Travel/travel/2019_fall_break/IMG_20191012_154602.jpg)
+![IMG_20191012_154602](./IMG_20191012_154602.jpg)
 
 继续上路，路上的风景都比这个好看。
 
@@ -158,7 +160,7 @@ Vermont主要就是沿路景色比较好看，所以今天是沿着著名观景�
 
 这时候已经十点了，又开车两个半小时到了住的地方。本来住在Burlington是最好的，但是不知道为什么网上就是搜不到附近住的地方，明明那么热闹，可能是被订完了。
 
-## sunday 10/13
+## Sunday 10/13
 
 今天的计划是从住的地方往北开，再开进Vermont，走著名景观路线Vermont 100号路，开到著名冰淇淋店Ben&Jerry的工厂店，然后往东边开到White  Mountains住。
 
