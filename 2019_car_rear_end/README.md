@@ -18,9 +18,8 @@ Chengwei Ye
 
 November 26th, 2019
 
-[^Donald Francis Dailey Jr's driver's license]: Donald Francis Dailey Jr's driver's license![Donald Francis Dailey Jr's driver's license](./Donald Francis Dailey Jr's driver's license.jpeg)
+[^Donald Francis Dailey Jr's driver's license]: Donald Francis Dailey Jr's driver's license ![Donald Francis Dailey Jr's driver's license](./Donald Francis Dailey Jr's driver's license.jpeg)
 [^text_message]: Donald Francis Dailey Jr committed responsible and apologized for this accident ![text_message](./text_message.png)
 [^evidence 1]: Accident scene ![accident scene](./evidence_1.jpeg)
 [^evidence 2]: A circular part of my back bumper is missing.![picture](./evidence_2.jpeg)
-
-[^video]:Please see attached file *evidence_3.mp4*
+[^video]:Please see attached file [*evidence_3.mp4*](./evidence_3.mp4)
